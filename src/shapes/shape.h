@@ -124,7 +124,6 @@ protected:
     /// @brief The position of the shape
     vec2 pos;
 
-    //
     vec2 size;
 
     vec2 velocity;
