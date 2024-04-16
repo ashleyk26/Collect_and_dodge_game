@@ -1,2 +1,15 @@
-# Collect_and_dodge_game
-Interactive game coded in C++
+# M4OEP
+
+Ashley Kulcsar and Nick Pleva
+
+No installations necessary 
+
+Our program is a game in which you control your player with the arrow keys. Your goal is to collect all of the supplies in order to build your rocket ship. There are enemies that move around the screen in set paths that you need to avoid. If you hit an enemy, you lose a life. You have 3 lives in total, and if you lose all 3 then you lose. You keep track of your lives with the battery in the top left of the screen. When you spawn into the game, you spawn in the middle of the left side of the screen within the safe zone. No enemies can go or spawn inside that safe zone, and it is highlighted with a green rectangle. You can pick your difficulty at the beginning of the game. This affects the amount of supplies that you must collect, the amount of enemies that spawn, and the speed at which the enemies move at. If you collect all of the supplies and avoid all of the enemies without losing all of your lives, you will be taken to a win screen. If not, you are taken to a lose screen. In both of those scenarios, you can press r to restart and choose a new difficulty. 
+
+No known bugs at time of submission
+
+How we can expand the program is to expand the window size for the different difficulties. If there is more space, we can add even more enemies and have a bigger safe zone and overall just a more different experience for the different difficulties. Another future aspect is to make the supplies floating around the space constantly, and bouncing off walls. Almost like objects in space, and make them circles instead of squares. We could make them different colors, and make them different sizes. The user could be a space man that you move around. So that there is something to back up the story that we have created around this game. 
+
+All code is written by us or from previous projects written by our instructor.
+
+Our grade for this project should be a 100/100. When going through the rubric, our main project uses many concepts from module 4, including input from the arrow keys and other keyboard buttons. We also used boundaries with our enemies. They move on their own but cannot move out of the space set. We use the rectangle class in many different ways, and we also have things moving on their own and things that only move when you press a certain button. We have different screens controlled by enum values, which change based on keys pressed, and also circumstances in the game. The game is fully interactive which enhances the functionality of the game. This is because of the use of arrow keys to move the player, and move from screen to screen. Game is user-friendly and behaves in robust and intuitive ways. The files and folders that our program is split up between makes sense, and we have comments throughout that directly describe the program and it's functionality throughout. Our repository spans over 7 days, and we have a video documenting our project.
