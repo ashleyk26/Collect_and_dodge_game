@@ -1,4 +1,4 @@
-# M4OEP
+# Collect and Dodge 2D Game
 
 ### Ashley Kulcsar and Nick Pleva
 
